@@ -66,10 +66,10 @@ A passionate and detail-oriented Full-Stack Developer with expertise in designin
 
 ## Github Contributes
 <a href="https://github.com/dangtrungc4">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username= dangtrungc4&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Nguyễn Đặng Trung's GitHub Stats" />
-</a>
-<br/>
+![](https://github-readme-stats.vercel.app/api?username=dangtrungc4&show_icons=true&hide_border=false&include_all_commits=true&count_private=true)
+  </a>
 
+<br/>
 ## 🌐 Socials
 
 [![Facebook][Facebook.com]][Facebook-url]
