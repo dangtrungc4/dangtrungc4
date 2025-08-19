@@ -5,6 +5,13 @@
 
 # 👋 Hi, I'm Nguyễn Đặng Trung
 
+<br/>
+
+A passionate and detail-oriented Full-Stack Developer with expertise in designing scalable web applications and crafting seamless user experiences. I thrive on turning complex requirements into elegant, maintainable solutions while leveraging modern frameworks and cloud technologies to deliver high-quality, impactful products.
+
+- 📧 **Contact me at:** [nguyendangtrung0209@gmail.com](mailto:nguyendangtrung0209@gmail.com)
+- 🔗 **LinkedIn:** [My Profile](https://www.linkedin.com/in/trung-nguyen-1ba07717b)
+
 ### Built With
 
 * [![Next][Next.js]][Next-url]
