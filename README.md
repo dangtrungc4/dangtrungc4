@@ -54,9 +54,9 @@ A passionate and detail-oriented Full-Stack Developer with expertise in designin
       <p>
         <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
         <img src="https://img.shields.io/badge/Trello-0079BF?style=for-the-badge&logo=trello&logoColor=white" alt="Trello">
-        <img src="https://img.shields.io/badge/Bitbucket-0052CC?style=for-the-badge&logo=bitbucket&logoColor=white" alt="Bitbucket">
-		<img src="https://img.shields.io/badge/Fork-000000?style=for-the-badge&logo=fork&logoColor=white" alt="Fork">
+        <img src="https://img.shields.io/badge/Fork-000000?style=for-the-badge&logo=fork&logoColor=white" alt="Fork">
 		<img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab">
+		<img src="https://img.shields.io/badge/Bitbucket-0052CC?style=for-the-badge&logo=Bitbucket&logoColor=white" alt="Bitbucket">
       </p>
     </td>
   </tr>
