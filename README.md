@@ -73,6 +73,10 @@ A passionate and detail-oriented Full-Stack Developer with expertise in designin
 
 [![Facebook][Facebook.com]][Facebook-url]
 
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=dangtrungc4/g-c-m-a-nh&type=Date)](https://star-history.com/#dangtrungc4/g-c-m-a-nh&Date)
+
 <!-- MARKDOWN LINKS & IMAGES -->
 [Next.js]: https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
 [Next-url]: https://nextjs.org/
